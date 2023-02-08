@@ -1,0 +1,15 @@
+Write a program code for a game that does the following:
+-	The program sets a secret number between 1 and 20
+-	The user enters the amount they are betting for in Rwandan Francs.
+-	The program terminates if the amount entered is below 0.
+-	The program terminates if the amount entered is not a multiple (cannot divide) of 500 Rwf.
+-	Otherwise allow the user to try to guess the number. Give 6 trials.
+-	Count the number of times the user has tried to guess it.
+-	Output a sorry message if the user was unable to guess the number and their bet money is chopped.
+-	Otherwise output the money the user has earned after guessing the number:
+•	Their bet money is doubled if guessed after one trial. (x2)
+•	Their bet money is multiplied by (x1.75) after two trials.
+•	Their bet money is multiplied by (x1.5) after three trials.
+•	Their bet money is multiplied by (x1.25) after four trials.
+•	Their bet money is multiplied by (x1.10) after five trials.
+•	Money returned untouched after six trials.
