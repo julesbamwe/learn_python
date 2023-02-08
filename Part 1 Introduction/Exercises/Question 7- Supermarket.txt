@@ -1,0 +1,20 @@
+Write a program code that allows the user to input:
+- the name of the supermarket
+- names, unit prices and quantity of 5 products
+and your code should be able to display the following receipt:
+
+
+============================================================================
+                    _supermarket name_
+----------------------------------------------------------------------------
+#   PRODUCT DESCRIPTION        UNIT PRICE         QUANTITY         TOTAL
+--  -------------------        ----------         --------         ---------
+1.   _product name_             _unitprice_        _quantity_      _calculated total_
+2.   _product name_             _unitprice_        _quantity_      _calculated total_
+...
+5.  _product name_             _unitprice_        _quantity_      _calculated total_
+----------------------------------------------------------------------------
+GRAND TOTAL:  									-grand_total_
+TAX:                                                              _5% of grand total_
+FINAL TOTAL:                                                      _grand_total -(minus) tax
+============================================================================

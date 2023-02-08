@@ -1,0 +1,8 @@
+Write a program code that allows the user to input the distance run in a marathon in m and convert
+this distance in:
+- kilometers
+- hectometers
+- miles and
+- decimeters
+
+Display each value with an appropriate message

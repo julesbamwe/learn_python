@@ -1,0 +1,6 @@
+Write a program code that allows the user to input the duration in minutes and
+your code should be able to display the hours from the duration and the remaining minutes from
+the duration.
+For example if the user enters 76 minutes as duration your program should display 1h 16 min,
+For 130 minutes entered, the program should display 2h 10 min.
+For 45 minutes entered, the program should display 0h 45min.

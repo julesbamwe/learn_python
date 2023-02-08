@@ -1,0 +1,28 @@
+Write a program code that allows the user to input:
+- The name of the school
+- student name, age, address, contact
+- enter 5 subjects.
+- for each subject:
+	* the name of the subject
+	* the mark obtained in coursework out 40
+	* the mark obtained in exam out of 50
+- your program should be able to compute: the total, average, percentage and
+display the following report card.
+
+=====================================================================================
+			_school name here
+-------------------------------------------------------------------------------------
+NAME: _name here_							ADDRESS: _address_
+AGE:  _age here_       						CONTACT: _contact here_
+-------------------------------------------------------------------------------------
+#	SUBJECT		CW /40		EXAM /50		TOTAL /100
+--    -------  		------		--------		----------
+1. 	_subject name_	_coursework_	_exam_		_the two converted to 100_
+2. 	_subject name_	_coursework_	_exam_		_the two converted to 100_
+3.    _subject name_	_coursework_	_exam_		_the two converted to 100_
+4.    _subject name_	_coursework_	_exam_		_the two converted to 100_
+5.    _subject name_	_coursework_	_exam_		_the two converted to 100_
+--------------------------------------------------------------------------------------
+TOTAL:										_value_/500
+	 										_value_/100
+======================================================================================

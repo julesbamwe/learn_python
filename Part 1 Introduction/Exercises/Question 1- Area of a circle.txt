@@ -1,0 +1,2 @@
+Write a program code to allow the user to input the radius of a circle in meters and display the area
+of the circle in cm2 (centimeter squared)

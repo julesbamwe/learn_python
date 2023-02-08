@@ -1,0 +1,8 @@
+Write a program code that allows the user to input the amount in Rwandan Francs (RWF)
+and your program should be able to convert it into the following currencies:
+1) USD (1 USD = 1080 RWF)
+2) EURO (1 EURO = 1250 RWF)
+3) POUND (1 POUND = 1350 RWF)
+4) KENYAN SHILLINGS (1KS = 80 RWF)
+
+Display the results with appropriate messages

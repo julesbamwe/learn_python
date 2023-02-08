@@ -1,0 +1,9 @@
+First attempt Question 5.
+
+Write a program code that allows the user to input the duration in minutes and your
+program should be able to convert it into days, hours and minutes.
+
+For example:
+ - input of 4680 minutes should give: 3 day(s) 6 hour(s) 0 minute(s).
+ - input of 1870 minutes should give: 1 day(s) 7 hour(s) 10 minute(s).
+ - input of 1040 minutes should give: 0 day(s) 17 hour(s) 20 minute(s).   

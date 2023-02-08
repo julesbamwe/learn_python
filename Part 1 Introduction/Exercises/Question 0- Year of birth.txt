@@ -1,0 +1,4 @@
+Write a program code that allows the user to input the first, last name and age.
+- Concatenate the two names to form the full name
+- calculate the year of birth
+Display the results with appropriate prompts.

@@ -1,0 +1,2 @@
+Write a program code that allows the user to input the base and height of a circle in centimeter(cm)
+and display the area in meter squared.
