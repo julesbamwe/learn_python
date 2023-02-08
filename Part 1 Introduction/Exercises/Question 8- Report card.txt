@@ -12,17 +12,17 @@ display the following report card.
 =====================================================================================
 			_school name here
 -------------------------------------------------------------------------------------
-NAME: _name here_							ADDRESS: _address_
+NAME: _name here_						ADDRESS: _address_
 AGE:  _age here_       						CONTACT: _contact here_
 -------------------------------------------------------------------------------------
 #	SUBJECT		CW /40		EXAM /50		TOTAL /100
 --    -------  		------		--------		----------
-1. 	_subject name_	_coursework_	_exam_		_the two converted to 100_
-2. 	_subject name_	_coursework_	_exam_		_the two converted to 100_
+1.    _subject name_	_coursework_	_exam_		_the two converted to 100_
+2.    _subject name_	_coursework_	_exam_		_the two converted to 100_
 3.    _subject name_	_coursework_	_exam_		_the two converted to 100_
 4.    _subject name_	_coursework_	_exam_		_the two converted to 100_
 5.    _subject name_	_coursework_	_exam_		_the two converted to 100_
 --------------------------------------------------------------------------------------
 TOTAL:										_value_/500
-	 										_value_/100
+	 									_value_/100
 ======================================================================================
