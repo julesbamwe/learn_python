@@ -14,7 +14,7 @@ and your code should be able to display the following receipt:
 ...
 5.  _product name_             _unitprice_        _quantity_      _calculated total_
 ----------------------------------------------------------------------------
-GRAND TOTAL:  									-grand_total_
+GRAND TOTAL:  									                                  -grand_total_
 TAX:                                                              _5% of grand total_
 FINAL TOTAL:                                                      _grand_total -(minus) tax
 ============================================================================
